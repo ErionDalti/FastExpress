@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "804185631826",
+    "firebase_url": "https://foodzone-109c1.firebaseio.com",
+    "project_id": "foodzone-109c1",
+    "storage_bucket": "foodzone-109c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804185631826:android:7ad3e1ca939f5bcda3c38b",
+        "android_client_info": {
+          "package_name": "com.example.delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804185631826-uu11u105p9lpg9cb8i2cufqe42912av2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delivery_boy",
+            "certificate_hash": "856d9619830c4a096be08b71c6f85590231620d3"
+          }
+        },
+        {
+          "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2oUv3a_d80nSPf2gtWfdA3TalzLPUDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804185631826-q89uu90usfbr37iv32881b4evgr9qfl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HDdeliveryBoy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804185631826:android:cd2301d9d1f5ca57a3c38b",
+        "android_client_info": {
+          "package_name": "com.example.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804185631826-lcoajvtu1ca46ik4odmqe843vhnj1q87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owner",
+            "certificate_hash": "856d9619830c4a096be08b71c6f85590231620d3"
+          }
+        },
+        {
+          "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2oUv3a_d80nSPf2gtWfdA3TalzLPUDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804185631826-q89uu90usfbr37iv32881b4evgr9qfl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HDdeliveryBoy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804185631826:android:09391c696818d63ca3c38b",
+        "android_client_info": {
+          "package_name": "com.fast.express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804185631826-c365elpbg1tkbql8vesshcd4ec6nn2f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fast.express",
+            "certificate_hash": "178a8db7c142f869da1c9d11182958e7c7dc7345"
+          }
+        },
+        {
+          "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2oUv3a_d80nSPf2gtWfdA3TalzLPUDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804185631826-egsc3vcvs9dmkloo9h5gds1u8jn1vhli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804185631826-q89uu90usfbr37iv32881b4evgr9qfl8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HDdeliveryBoy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
